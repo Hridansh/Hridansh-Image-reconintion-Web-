@@ -1,0 +1,21 @@
+body{
+    background-color: orange;
+    color: white;
+}
+
+#camera, #result{
+    border-style: double;
+    border-color: maroon;
+    border-width: 5px;
+    width: 350px;
+    height: 300px;
+}
+
+#Object_names, #identify_image_name, #identify_image_accuracy{
+    color: red;
+}
+
+#image_rec_web{
+    width: 80%;
+    font-size: 25px;
+}
